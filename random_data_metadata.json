@@ -1,0 +1,11 @@
+{
+  "dataset_type": "random",
+  "num_transitions": 2242,
+  "num_episodes": 100,
+  "avg_episode_length": 22.42,
+  "avg_episode_reward": 22.42,
+  "action_distribution": {
+    "0": 0.49910793933987513,
+    "1": 0.5008920606601249
+  }
+}

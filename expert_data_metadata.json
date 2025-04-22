@@ -1,0 +1,11 @@
+{
+  "dataset_type": "expert",
+  "num_transitions": 46716,
+  "num_episodes": 100,
+  "avg_episode_length": 467.16,
+  "avg_episode_reward": 467.16,
+  "action_distribution": {
+    "0": 0.5065930302251905,
+    "1": 0.49340696977480947
+  }
+}

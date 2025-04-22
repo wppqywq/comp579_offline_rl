@@ -1,0 +1,12 @@
+{
+  "dataset_type": "mixed",
+  "num_transitions": 2242,
+  "expert_ratio": 0.5,
+  "n_expert_transitions": 1121,
+  "n_random_transitions": 1121,
+  "action_distribution": {
+    "0": 0.4915254237288136,
+    "1": 0.5084745762711864
+  },
+  "seed": 42
+}
